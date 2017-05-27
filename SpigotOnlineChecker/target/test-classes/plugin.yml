@@ -1,0 +1,13 @@
+name: OnlineChecker
+version: 1.0.0
+main: awesomeGuy.jusjus.Core
+
+permissions:
+  onlinechecker.global:
+    description: Global lookup
+  onlinechecker.user:
+    description: User looukp
+  onlinechecker.active:
+    description: Active lookup
+  onlinechecker.inactive:
+    description: inactive lookup
